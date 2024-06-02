@@ -12,6 +12,7 @@ public class GraphService {
     private Graph graph = new Graph();
 
     public Graph uploadFile(String filePath) {
+        // Graph graph = new Graph();
         graph.getNodes().clear();
         graph.getAdjList().clear();
 
@@ -109,7 +110,7 @@ public class GraphService {
             return "0 " + word2;
         }
 
-        // Dijkstra
+        // 使用 Dijkstra 算法计算最短路径
         Map<Node, Integer> distances = new HashMap<>();
         Map<Node, Node> predecessors = new HashMap<>();
         PriorityQueue<Node> queue = new PriorityQueue<>(Comparator.comparingInt(distances::get));
@@ -149,6 +150,7 @@ public class GraphService {
     }
 
     public String randomWalk() {
+        // System.out.println("fine");
         StringBuilder result = new StringBuilder();
         // 随机选择起始节点
         Random random = new Random();
