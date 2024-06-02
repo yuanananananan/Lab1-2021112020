@@ -26,7 +26,6 @@ public class GraphController {
         }
 
         try {
-            // System.out.println("file ok!");
             // 保存上传的文件到服务器的某个位置
             String uploadDir = "uploads/";
             File uploadDirFile = new File(uploadDir);
