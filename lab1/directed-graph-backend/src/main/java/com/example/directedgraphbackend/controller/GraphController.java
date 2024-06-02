@@ -18,7 +18,7 @@ public class GraphController {
 
     @Autowired
     private GraphService graphService;
-
+    // 上传文件的接口
     @PostMapping("/upload")
     public ResponseEntity<Graph> uploadFile(@RequestParam("file") MultipartFile file) {
         if (file.isEmpty()) {
@@ -32,8 +32,7 @@ public class GraphController {
             if (!uploadDirFile.exists()) {
                 uploadDirFile.mkdirs();
             }
-
-            // String filePath = uploadDir + file.getOriginalFilename();
+            
             String filePath = "D:\\Projects\\SoftwareEngineering\\lab1\\directed-graph-backend\\" + uploadDir + file.getOriginalFilename();
             File dest = new File(filePath);
             System.out.println(dest);
@@ -60,7 +59,7 @@ public class GraphController {
         String result = graphService.queryBridgeWords(word1, word2);
         return ResponseEntity.ok(result);
     }
-
+    // 生成新文本的接口
     @PostMapping("/new-text")
     public ResponseEntity<String> generateNewText(@RequestBody String inputText) {
         String newText = graphService.generateNewText(inputText);
