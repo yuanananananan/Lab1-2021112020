@@ -18,7 +18,6 @@ public class GraphController {
 
     @Autowired
     private GraphService graphService;
-    // 上传文件的接口
     @PostMapping("/upload")
     public ResponseEntity<Graph> uploadFile(@RequestParam("file") MultipartFile file) {
         if (file.isEmpty()) {
