@@ -51,7 +51,6 @@ public class GraphController {
 
     @GetMapping("/show")
     public ResponseEntity<String> showDirectedGraph(@RequestBody Graph graph) {
-        // 实现展示有向图的逻辑
         return ResponseEntity.status(HttpStatus.NOT_IMPLEMENTED).body("Not implemented yet");
     }
 
