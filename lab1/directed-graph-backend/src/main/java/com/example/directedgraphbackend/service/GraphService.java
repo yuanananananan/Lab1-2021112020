@@ -12,7 +12,6 @@ public class GraphService {
     private Graph graph = new Graph();
 
     public Graph uploadFile(String filePath) {
-        // Graph graph = new Graph();
         graph.getNodes().clear();
         graph.getAdjList().clear();
 

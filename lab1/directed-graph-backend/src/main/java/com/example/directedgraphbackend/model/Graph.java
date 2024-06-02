@@ -23,11 +23,14 @@ public class Graph {
     }
 
     public void addEdge(String fromWord, String toWord) {
+        // 获取或创建起点和终点节点
         Node from = nodes.get(fromWord);
         Node to = nodes.get(toWord);
+        // 如果起点和终点都存在
         if (from != null && to != null) {
             List<Edge> edges = adjList.get(from);
 
+            // 如果起点的边列表为空，初始化边列表并添加到邻接表中
             if (edges == null) {
                 edges = new ArrayList<>();
                 adjList.put(from, edges);

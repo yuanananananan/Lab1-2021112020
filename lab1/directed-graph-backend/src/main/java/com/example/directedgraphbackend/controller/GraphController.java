@@ -32,8 +32,7 @@ public class GraphController {
             if (!uploadDirFile.exists()) {
                 uploadDirFile.mkdirs();
             }
-
-            // String filePath = uploadDir + file.getOriginalFilename();
+            
             String filePath = "D:\\Projects\\SoftwareEngineering\\lab1\\directed-graph-backend\\" + uploadDir + file.getOriginalFilename();
             File dest = new File(filePath);
             System.out.println(dest);
