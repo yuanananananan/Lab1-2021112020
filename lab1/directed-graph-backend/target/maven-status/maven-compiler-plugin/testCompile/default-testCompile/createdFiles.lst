@@ -1,0 +1,3 @@
+com\example\directedgraphbackend\controller\GraphControllerBlackBoxTest.class
+com\example\directedgraphbackend\controller\GraphControllerWhiteBoxTest.class
+com\example\directedgraphbackend\DirectedGraphBackendApplicationTests.class
