@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f463902-44cf-4b8c-a898-f7c6a662e760" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/java/com/example/directedgraphbackend/DirectedGraphBackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/java/com/example/directedgraphbackend/model/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/java/com/example/directedgraphbackend/model/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/java/com/example/directedgraphbackend/model/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/java/com/example/directedgraphbackend/service/GraphService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/test/java/com/example/directedgraphbackend/GraphServiceTestWhite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/test/resources/testcaseWhite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/uploads/nevergonnagiveyouup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/uploads/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/uploads/test0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/uploads/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/uploads/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/uploads/testcaseWhite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/checkstyle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/lib/hamcrest-core-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/lib/junit-4.13.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/lib/junit-4.13.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/main/java/com/example/directedgraphbackend/controller/GraphController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/java/com/example/directedgraphbackend/controller/GraphController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/main/resources/static/css/app.c0d27b5e.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/resources/static/css/app.c0d27b5e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/main/resources/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/resources/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/main/resources/static/js/app.45ac2737.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/resources/static/js/app.45ac2737.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/main/resources/static/js/app.45ac2737.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/resources/static/js/app.45ac2737.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/main/resources/static/js/chunk-vendors.359eaf8e.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/resources/static/js/chunk-vendors.359eaf8e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/main/resources/static/js/chunk-vendors.359eaf8e.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/main/resources/static/js/chunk-vendors.359eaf8e.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/test/java/com/example/directedgraphbackend/GraphServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/test/java/com/example/directedgraphbackend/GraphServiceTestBlack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/test/java/com/example/directedgraphbackend/controller/GraphControllerBlackBoxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/test/java/com/example/directedgraphbackend/controller/GraphControllerWhiteBoxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-backend/src/test/resources/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-backend/src/test/resources/testcaseBlack.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/node/node.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/node/node.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/node/npm" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/node/npm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/node/npm.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/node/npm.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/assets/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/assets/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/components/BridgeWords.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/components/BridgeWords.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/components/GraphVisualization.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/components/GraphVisualization.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/components/NewTextGeneration.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/components/NewTextGeneration.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/components/RandomWalk.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/components/RandomWalk.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/components/ShortestPath.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/components/ShortestPath.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/eventBus.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/eventBus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directed-graph-frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/directed-graph-frontend/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hsThL85j1u7IO5EmPEAtsTUkPy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.2517839&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;2b5b5c77bddc9c5ded030c80e6bea94b&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JAVA\softEn\lab1\directed-graph-backend\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GraphServiceTestWhite">
+    <configuration name="DirectedGraphBackendApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="directed-graph-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.directedgraphbackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.directedgraphbackend" />
+      <option name="MAIN_CLASS_NAME" value="com.example.directedgraphbackend.DirectedGraphBackendApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphServiceTestBlack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="directed-graph-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.directedgraphbackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.directedgraphbackend" />
+      <option name="MAIN_CLASS_NAME" value="com.example.directedgraphbackend.GraphServiceTestBlack" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphServiceTestBlack.testQueryBridgeWordsEmptyWord1AndWord2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="directed-graph-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.directedgraphbackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.directedgraphbackend" />
+      <option name="MAIN_CLASS_NAME" value="com.example.directedgraphbackend.GraphServiceTestBlack" />
+      <option name="METHOD_NAME" value="testQueryBridgeWordsEmptyWord1AndWord2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphServiceTestWhite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="directed-graph-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.directedgraphbackend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.directedgraphbackend" />
+      <option name="MAIN_CLASS_NAME" value="com.example.directedgraphbackend.GraphServiceTestWhite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectedGraphBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="directed-graph-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.directedgraphbackend.DirectedGraphBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="lab1.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.lab1.Lab1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphServiceTestWhite" />
+        <item itemvalue="JUnit.GraphServiceTestBlack.testQueryBridgeWordsEmptyWord1AndWord2" />
+        <item itemvalue="JUnit.GraphServiceTestBlack" />
+        <item itemvalue="JUnit.DirectedGraphBackendApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2f463902-44cf-4b8c-a898-f7c6a662e760" name="更改" comment="" />
+      <created>1718381903904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718381903904</updated>
+      <workItem from="1718381905874" duration="13715000" />
+      <workItem from="1718473746623" duration="4693000" />
+      <workItem from="1718532742324" duration="2154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab1$GraphServiceTestWhite.ic" NAME="GraphServiceTestWhite 覆盖结果" MODIFIED="1718477344957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.directedgraphbackend.*</FILTER>
+    </SUITE>
+  </component>
+</project>
